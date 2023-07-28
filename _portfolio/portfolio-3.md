@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 2"
+title: "Optimizing Investments: Stock Analysis and Predictive Modeling of NVIDIA Corporation"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
