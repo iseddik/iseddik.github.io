@@ -4,4 +4,8 @@ excerpt: "This work focuses on advancing the detection of diabetic retinopathy t
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work focuses on advancing the detection of diabetic retinopathy through the implementation of Vision Transformer (ViT) models, a state-of-the-art deep learning approach to computer vision. The system automates the identification of levels of diabetic retinopathy by classifying retinal images into three categories. The ViT model is meticulously trained on a large dataset of retinal images from Kaggle (available at https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged).
+
+To ensure accurate and reliable results, the study incorporates extensive data mining and pre-processing techniques. By using data normalisation and optimisation algorithms, the model acquires the ability to effectively understand the complex patterns associated with diabetic retinopathy.
+
+In addition to the Vision Transformer model, traditional machine learning techniques have been explored to further enhance overall detection performance. The ultimate aim of this mission is to develop an effective and scalable solution that will enable healthcare professionals to make timely diagnoses, thereby significantly improving patient outcomes in the management of diabetic retinopathy.
