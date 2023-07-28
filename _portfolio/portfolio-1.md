@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Blockchain under a clear vision"
+excerpt: "In this work we have created a system of decentralized monetary transactions based on the Blockchain technology, it is an academic work with the aim of illustrating as much as possible the functioning of the latter. It is an application programmed in java using libraries such as java-security, RSA, SHA-256 etc.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
