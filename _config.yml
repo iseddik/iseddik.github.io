@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Issam Seddik"
 title_separator          : "-"
 name                     : &name "Issam Seddik"
-description              : &description "personal description"
+description              : &description "Welcome to my personal page! I am currently pursuing a Master's degree in data science and intelligent systems. My main focus lies in exploring the potential of future AI innovations and security measures, particularly through the implementation of Blockchain systems and peer-to-peer communication. Additionally, I hold the prestigious position of president at the Artificial Intelligence and its Application Club (I2A) at the esteemed Mohammed Premier University. Through this role, I actively engage in various projects centered around the integration of AI and security solutions in domains such as healthcare, finance, noise reduction, natural language processing (NLP), and computer vision. Join me on this exciting journey as we delve into the cutting-edge developments in AI and its transformative impact on tomorrow's world."
 url                      : https://iseddik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "iseddik/iseddik.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : iseddik
 facebook:
   username               :
   app_id                 :
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-148815470-1"
 
 
 # Site Author
 author:
-  name             : "Issam Seddik"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "I.Seddik"
+  avatar           : "profile.jpg"
+  bio              : "Data science and AI student at UMP."
+  location         : "Nador, MAR"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "issamseddik"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "isseddik"
   vine             :
   weibo            :
   xing             :
@@ -261,16 +261,12 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
