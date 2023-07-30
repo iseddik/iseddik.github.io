@@ -1,7 +1,11 @@
 ---
-title: "Contribution to creation, classification and generation of a new hand-written Tifinagh alphabet letters dataset using ANN, CNN and GAN"
-excerpt: ""Introducing Tifinagh-MNIST: 82.5k grayscale images (28x28 pixels) of handwritten Tifinagh letters used in Tamazight languages. 33 classes with 2.5k images each. Training set: 66k images. Test set: 16.5k images. AI tools development, classification, and data generation applications. Publicly available to advance AI for Tamazight text processing."<br/><img src='/images/port4.png'>"
+title: "Advancing Diabetic Retinopathy Detection: Fine-Tuning VIT Models"
+excerpt: "This work focuses on using Vision Transformer (ViT) models to detect diabetic retinopathy in retinal images. The model is trained on a large dataset from Kaggle, using data mining and pre-processing techniques for reliable results. Traditional machine learning methods are also explored to improve detection. The goal is to create a scalable solution for timely diagnoses, improving patient outcomes in managing diabetic retinopathy.<br/><img src='/images/port1.png'>"
 collection: portfolio
 ---
 
-"Introducing Tifinagh-MNIST: 82.5k grayscale images (28x28 pixels) of handwritten Tifinagh letters used in Tamazight languages. 33 classes with 2.5k images each. Training set: 66k images. Test set: 16.5k images. AI tools development, classification, and data generation applications. Publicly available to advance AI for Tamazight text processing."
+This work focuses on advancing the detection of diabetic retinopathy through the implementation of Vision Transformer (ViT) models, a state-of-the-art deep learning approach to computer vision. The system automates the identification of levels of diabetic retinopathy by classifying retinal images into three categories. The ViT model is meticulously trained on a large dataset of retinal images from Kaggle (available at [Kaggle](https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged)).
+
+To ensure accurate and reliable results, the study incorporates extensive data mining and pre-processing techniques. By using data normalisation and optimisation algorithms, the model acquires the ability to effectively understand the complex patterns associated with diabetic retinopathy.
+
+In addition to the Vision Transformer model, traditional machine learning techniques have been explored to further enhance overall detection performance. The ultimate aim of this mission is to develop an effective and scalable solution that will enable healthcare professionals to make timely diagnoses, thereby significantly improving patient outcomes in the management of diabetic retinopathy.
