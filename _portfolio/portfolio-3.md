@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Investments: Stock Analysis and Predictive Modeling of NVIDIA Corporation"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "This study optimizes investments in NVIDIA Corporation using stock analysis and predictive modeling. Data preprocessing and analysis are performed, followed by four modeling techniques: logistic regression, PCA, KNN, and LSTM. The LSTM model captures temporal dependencies for time series prediction. Results and investment strategies for NVIDIA stock are presented.<br/><img src='/images/port3.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This study optimizes investments in NVIDIA Corporation using stock analysis and predictive modeling. Data preprocessing and analysis are performed, followed by four modeling techniques: logistic regression, PCA, KNN, and LSTM. The LSTM model captures temporal dependencies for time series prediction. Results and investment strategies for NVIDIA stock are presented.
