@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Kindly access my PDF resume via the provided link ([CV](https://drive.google.com/file/d/1XQDiMKDILE4CzH9WHr7flbzLSHJCJAR4/view?usp=sharing)).
+Kindly access my PDF resume here ([CV](https://drive.google.com/file/d/1XQDiMKDILE4CzH9WHr7flbzLSHJCJAR4/view?usp=sharing)).
 
 Education
 ======
