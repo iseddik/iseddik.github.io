@@ -18,11 +18,17 @@ Education
 Skills
 ======
 * Maths
-  * Linear algebra, functional analysis, probability and statistics, linear programming, optimization.
-* Maths
-  * Linear algebra, functional analysis, probability and statistics, linear programming, optimization.
-* Maths
-  * Linear algebra, functional analysis, probability and statistics, linear programming, optimization.
+  * Linear algebra, functional analysis, probability and statistics, linear programming, optimization
+* Security
+  * P2P Architectures, Blockchain, chryptography, digital signature, hash method
+* AI
+  * Logistic regression, deep learning (multilayer perceptron, convolutional neural networks, transformers), dimension reduction (principal component analysis, T-SNE), automatic natural language processing (NLP), image classification, data visualization, generative adversarial networks
+* Big Data
+  * Hadoop, MapReduce, Hive, Hbase
+* Conception
+  * Graphic design, UI/UX, UML, Merise (database design)
+* Codes
+  * Python, C/C++, JAVA, PHP, Html, CSS, SQL, LaTeX, Shell, dart
 
 Publications
 ======
