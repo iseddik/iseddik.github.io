@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Kindly access my PDF resume via the provided link ([CV](https://drive.google.com/file/d/1XQDiMKDILE4CzH9WHr7flbzLSHJCJAR4/view?usp=sharing)).
+
 Education
 ======
 * High school degree in physics and chemistry, Nador El Jadid Secondary School, 2016
