@@ -1,5 +1,5 @@
 ---
-title: "Advancing Diabetic Retinopathy Detection: Fine-Tuning VIT Models"
+title: "Advanced anomaly detection: Machine learning (ML) approaches"
 excerpt: "In this work, I participated in the development of an Intrusion Detection System (IDS) that monitors network traffic and system activity, identifying security threats and suspicious behaviour. It protects against unauthorised access, attacks, anomalies or policy violations. The system is based on machine learning techniques.<br/><img src='/images/4545.png'>"
 collection: portfolio
 ---
